@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85918655564",
+    "project_id": "talent-link-hr",
+    "storage_bucket": "talent-link-hr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85918655564:android:11ffc954be3cd6143440e9",
+        "android_client_info": {
+          "package_name": "com.ilead.talent.link.talent_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0zObrJJdQ2UErnw2G4GA4C61BJ8r2i70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
